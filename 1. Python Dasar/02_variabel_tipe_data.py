@@ -10,7 +10,7 @@ tinggi = 170.5
 nama = "Raffa"
 
 # boolean (true / false)
-is_student = False
+is_student = True
 
 print("Nama:", nama)
 print("Umur:", umur)
