@@ -1,3 +1,3 @@
 ## Running File 
 
-py "1. Python Dasar/
+py "1. Python Dasar/"
