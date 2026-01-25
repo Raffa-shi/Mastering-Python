@@ -1,7 +1,7 @@
 # VARIABLE & TIPE DATA
 
 # integer (angka bulat)
-umur = 20
+umur = 21
 
 # float (angka desimal)
 tinggi = 170.5
@@ -10,7 +10,7 @@ tinggi = 170.5
 nama = "Raffa"
 
 # boolean (true / false)
-is_student = True
+is_student = False
 
 print("Nama:", nama)
 print("Umur:", umur)
