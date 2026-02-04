@@ -4,6 +4,9 @@
 def sapa():
     print("Halo, selamat belajar Python!")
 
+def manggil():
+    print("gua manggil function jir!")
+
 # panggil function
 sapa()
-sapa()
+manggil()
