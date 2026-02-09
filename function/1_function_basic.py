@@ -7,6 +7,10 @@ def sapa():
 def manggil():
     print("gua manggil function jir!")
 
+def mikir():
+    print("belajar yahg paten bang!")
+
 # panggil function
 sapa()
 manggil()
+mikir()
